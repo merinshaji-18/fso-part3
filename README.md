@@ -2,7 +2,7 @@
 
 ## Base URL
 
-https://phonebook-hkqr.onrender.com/
+https://phonebookapp-o18l.onrender.com
 
 ## Endpoints
 
