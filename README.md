@@ -2,8 +2,7 @@
 
 ## Base URL
 
-https://phonebookapp-o18l.onrender.com
-
+https://phonebookapp1.onrender.com
 ## Endpoints
 
 ### Get all persons
